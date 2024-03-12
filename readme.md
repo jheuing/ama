@@ -4,6 +4,8 @@ Over the nearly 25 years of my career, I've navigated the dynamic landscapes of 
 
 Head over to my [Blog about startups, tech and build in public](https://8weeks.io/) or [CodeFusion which is about Website and Software Development](https://codefusion.ch/).
 
+--- 
+
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
